@@ -1,0 +1,8 @@
+{
+  "name": "AutoFix Booking",
+  "description": "Plateforme de réservation de mécaniciens à domicile ou en garage (Montréal & Ottawa). Connecte clients, amateurs et professionnels certifiés.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
